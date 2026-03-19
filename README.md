@@ -61,7 +61,7 @@ AI/ML Integration Plan :
             Anomaly detection techniques are used to identify suspicious claims by analyzing location consistency, user activity, and behavior patterns, helping prevent GPS spoofing and duplicate claims.
 
 Platform :
- 
+        
         1.The platform follows a modular architecture where each component interacts through APIs.
 
         2.The frontend (React/React Native) communicates with the backend via REST APIs for user actions and data display.
@@ -73,3 +73,5 @@ Platform :
         5.AI/ML models (Python) are integrated via API endpoints to perform risk prediction and fraud detection.
 
         6.External services such as weather APIs are used for real-time disruption monitoring, and payment gateways are used for payout simulation.
+        
+        7.We are developing a Mobile Application for delivery partners along with a Web-based Admin Dashboard.
