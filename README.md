@@ -5,11 +5,12 @@ Problem Statement :
    India’s delivery partners (Zomato, Swiggy, Zepto, etc.) depend on daily earnings but are highly affected by external disruptions like bad weather, pollution, and curfews, leading to 20–30% income loss. Currently, there is no system to protect their lost income.
 
 Challenge : 
-       1.Build an AI-powered parametric insurance platform that:
-       2.Protects gig workers from income loss due to external disruptions
-       3.Provides automatic claim triggering and instant payouts
-       4.Uses fraud detection mechanisms to prevent misuse
-       5.Follows a weekly premium model aligned with gig workers’ earnings
+
+          1.Build an AI-powered parametric insurance platform that:
+          2.Protects gig workers from income loss due to external disruptions
+          3.Provides automatic claim triggering and instant payouts
+          4.Uses fraud detection mechanisms to prevent misuse
+          5.Follows a weekly premium model aligned with gig workers’ earnings
 
 Requirements :
 
@@ -17,25 +18,26 @@ Requirements :
         Our platform is designed for Urban Food Delivery Partners working on platforms like Zomato, Swiggy, and Zepto.
 
 Work Flow :
-        1. User Registration
-                  ↓
-        2. AI-Based Risk Profiling
-                  ↓
-        3. Weekly Premium Calculation
-                  ↓
-        4. Policy Purchase & Activation
-                  ↓
-        5. Continuous Monitoring of External Conditions
-                  ↓
-        6. Parametric Trigger Detected (Rain / Pollution / Curfew)
-                  ↓
-        7. Automatic Claim Generation
-                  ↓
-        8. Fraud Detection & Risk Scoring
-                  ↓
-        9. Claim Approval Decision
-                  ↓
-        10. Instant Payout (Simulated)
+
+                 1. User Registration
+                           ↓
+                 2. AI-Based Risk Profiling
+                           ↓
+                 3. Weekly Premium Calculation
+                           ↓
+                 4. Policy Purchase & Activation
+                           ↓
+                 5. Continuous Monitoring of External Conditions
+                           ↓
+                 6. Parametric Trigger Detected (Rain / Pollution / Curfew)
+                           ↓
+                 7. Automatic Claim Generation
+                           ↓
+                 8. Fraud Detection & Risk Scoring
+                           ↓
+                 9. Claim Approval Decision
+                           ↓
+                 10. Instant Payout (Simulated)
 
 Tech Stack :
 
