@@ -75,3 +75,6 @@ Platform :
         6.External services such as weather APIs are used for real-time disruption monitoring, and payment gateways are used for payout simulation.
         
         7.We are developing a Mobile Application for delivery partners along with a Web-based Admin Dashboard.
+
+PPT link:
+   https://docs.google.com/presentation/d/1v__cnhm1fqzdHLLZL9NB3W6i1JfJEedj9RgzOCpQjho/edit?usp=sharing
